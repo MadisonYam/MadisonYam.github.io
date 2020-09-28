@@ -3,6 +3,27 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 
 }
+.assignment1 img {
+    width: 200px;
+    padding:10px;
+}
+.assignment1 {
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    background: purple;
+}
+.assignment {
+    display:flex;
+    padding: 10px;
+    margin:20px;
+    background:purple;
+}
+.assignment img {
+    width: 200px;
+    height: 300px;
+    padding:10px;
+}
 h1{
     color: violet;
     text-align: center;
