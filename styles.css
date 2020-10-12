@@ -5,13 +5,19 @@ body {
 }
 .assignment1 img {
     width: 200px;
-    padding:10px;
+    margin-right:20px;
+    border: 4px solid teal;
 }
 .assignment1 {
     display: flex;
-    padding: 10px;
+    padding:10px;
     margin: 20px;
     background: purple;
+}
+a{ 
+    text-decoration:none;
+    color:cyan;
+
 }
 .assignment {
     display:flex;
@@ -22,10 +28,22 @@ body {
 .assignment img {
     width: 200px;
     height: 300px;
-    padding:10px;
+    margin-right:20px;
+    border: 4px solid teal;
 }
 h1{
     color: violet;
     text-align: center;
     
+}
+.assignment2 img {
+    width: 400px;
+    margin-right:20px;
+    border: 4px solid teal;
+}
+.assignment2 {
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    background: purple;
 }
